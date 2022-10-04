@@ -1,0 +1,24 @@
+.titulo{
+color: cornflowerblue;
+    font-size: 120px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.fondo{
+    background-color: blanchedalmond;
+}
+.margen{
+    float: right;
+    margin-right: 37%;
+    margin-top: -5%;
+
+}
+.fondo1{
+    background-color: blanchedalmond;
+}
+.margen1{
+    float: right;
+    margin-right: 37%;
+    margin-top: 10%;
+
+}
